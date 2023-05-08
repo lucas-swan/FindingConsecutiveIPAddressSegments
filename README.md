@@ -1,0 +1,2 @@
+# FindingConsecutiveIPAddressSegments
+查找连续的未使用的IP地址段
